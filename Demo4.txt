@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-This is Nagaraju   is student
-=======
-This is Nagaraju abcd
->>>>>>> qa
